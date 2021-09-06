@@ -9,4 +9,3 @@ Yellow pages for modern times
 - `PHP`
 
 ![](pics/pic2.png)
-![](pics/pic1.png)
