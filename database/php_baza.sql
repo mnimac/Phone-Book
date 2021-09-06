@@ -43,7 +43,7 @@ CREATE TABLE `contacts` (
 INSERT INTO `contacts` (`id`, `name`, `surname`, `phone`, `description`, `username`) VALUES
 (1, 'Marko', 'Markicccccccc', 915, 'Dobar', 'Marko'),
 (212, 'Marko', 'Mihelj', 979876543, 'Meh', NULL),
-(214, 'Christopher', 'Livingstron', 999874578, 'so-so', NULL),
+(214, 'Jonathan', 'Livingstron', 999874578, 'so-so', NULL),
 (215, 'Richard', 'Gere', 2147483647, 'Gentleman', NULL);
 
 -- --------------------------------------------------------
