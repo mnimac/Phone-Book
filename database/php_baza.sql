@@ -41,7 +41,7 @@ CREATE TABLE `contacts` (
 --
 
 INSERT INTO `contacts` (`id`, `name`, `surname`, `phone`, `description`, `username`) VALUES
-(1, 'Markooooooo', 'Markicccccccc', 915, 'Dobar deckodd', 'Marko'),
+(1, 'Marko', 'Markicccccccc', 915, 'Dobar', 'Marko'),
 (212, 'Marko', 'Mihelj', 979876543, 'Meh', NULL),
 (214, 'Christopher', 'Livingstron', 999874578, 'so-so', NULL),
 (215, 'Richard', 'Gere', 2147483647, 'Gentleman', NULL);
@@ -64,9 +64,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `pass`, `email`) VALUES
-(1, 'mknimac', '26c7c9089e23c14396410bbc6675dbdf', 'mknimac@vsite.hr'),
+(1, 'mknimac', '26c7c9089e23c14396410bbc6675dbdf', 'mkrimac@vsite.hr'),
 (4, 'kalu', 'd75f841bcd3c04470389eef117d17e3c', 'kalu@fjh.com'),
-(5, 'Marko', '4dacbbf8c6ad88182d6271c0fc910d00', 'nimac.terminator@hotmail.com'),
+(5, 'Marko', '4dacbbf8c6ad49855d6271c0fc910d00', 'rimac.leginator@hotmail.com'),
 (6, 'anonimac', '5e98c0ec1d979a2800c1ca87af215be5', 'anonimac@vsite.hr');
 
 --
