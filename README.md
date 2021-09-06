@@ -8,5 +8,5 @@ Yellow pages for modern times
 
 - `PHP`
 
-![](pics/pic1)
-![](pics/pic2)
+![](pics/pic1.png)
+![](pics/pic2.png)
