@@ -2,6 +2,9 @@
 Yellow pages for modern times
  
 ------------------------------------------------------------------------------------------------------------------------------------------
+CRUD Application
+(Create-Read-Update-Delete)
+
 ## Made with
 
 - `XAMPP`
